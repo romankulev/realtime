@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f06cba1-64e7-45f6-b92e-7964a986f12c" name="Changes" comment="4rd commit">
+      <change afterPath="$PROJECT_DIR$/src/prac26/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac27/Diction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac27/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac28/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac29/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac30/task2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac1/task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac1/task6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac1/task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac1/task7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac10/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/Poker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac2/Poker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/ReverseArrElems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/task1/TestAuthor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac2/task1/TestAuthor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/format/Report.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/format/Report.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/format/task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/format/task2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task2/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task2/Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac4_1/task6/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac4_1/task6/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac6/task6_to_task9/PrintableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac6/task6_to_task9/PrintableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathCaclulable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathFunc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task7_to8/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac7/task7_to8/DemoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac10/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/task1/ReverseArrUsingStack.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +35,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HCGjJNsBexOBgvHjqaE7FpQWpG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/realtime/pracs",
+    "last_opened_file_path": "C:/realtime/pracs/src/prac30/task2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,7 +61,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\realtime\pracs\src\prac30\task2" />
+      <recent name="C:\realtime\pracs\src\prac29" />
+      <recent name="C:\realtime\pracs\src\prac28\task3" />
+      <recent name="C:\realtime\pracs\src\prac27" />
       <recent name="D:\Yndx\JavaProjects\pracs\pracs\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\realtime\pracs\src\prac26" />
+      <recent name="C:\realtime\pracs\src\prac25" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="LinkedLists.task1" />
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669033702828</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4rd commit">
+      <created>1671400736079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671400736079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
