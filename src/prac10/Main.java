@@ -105,7 +105,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        iDNumber.add(new Student("Дима","Данилов","ИВТ", "КВБО-07-21",2,252));
+        iDNumber.add(new Student("Ромчик","Кул","ИВТ", "КВБО-07-21",2,252));
         iDNumber.add(new Student("Иван","Петров","ПИ", "КВБО-01-15",3,157));
         iDNumber.add(new Student("Ян","Лебедев","ПМИ", "КМБО-01-16",1,271));
         iDNumber.add(new Student("Петр","Солнцев","ИВТ", "КВБО-01-18",4,241));

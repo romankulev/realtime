@@ -6,27 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="1f06cba1-64e7-45f6-b92e-7964a986f12c" name="Changes" comment="4rd commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac1/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac1/task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac1/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac1/task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac1/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac1/task5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac1/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac1/task6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac1/task7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac1/task7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac13/PatternMatcherLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac13/PatternMatcherLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac2/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac2/Poker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac2/ReverseArrElems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac2/ReverseArrElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac2/task1/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac2/task1/TestAuthor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac3/format/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac3/format/Report.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac3/format/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac3/format/task2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac3/tasksAboutRandom/task2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac3/tasksAboutRandom/task2/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac3/tasksAboutRandom/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac3/tasksAboutRandom/task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac3/wrapper/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac3/wrapper/task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac4_1/task10/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac4_1/task10/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac4_1/task6/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac4_1/task6/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac4_1/task9/FurnitureShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac4_1/task9/FurnitureShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac6/task6_to_task9/PrintableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac6/task6_to_task9/PrintableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac7/task4/MathCaclulable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac7/task4/MathCalculable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac7/task4/MathFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac7/task4/MathFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac7/task7_to8/DemoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac7/task7_to8/DemoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac1/task6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac1/task6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac1/task7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac1/task7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac10/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac10/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/Poker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac2/Poker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/ReverseArrElems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac2/task1/TestAuthor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac2/task1/TestAuthor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/format/Report.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/format/Report.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/format/task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/format/task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task2/Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task2/Tester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac3/tasksAboutRandom/task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac4_1/task6/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac4_1/task6/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac6/task6_to_task9/PrintableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac6/task6_to_task9/PrintableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathCaclulable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathFunc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac7/task4/MathFunc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pracs/prac7/task7_to8/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pracs/prac7/task7_to8/DemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
