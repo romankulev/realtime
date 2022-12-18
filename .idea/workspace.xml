@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f06cba1-64e7-45f6-b92e-7964a986f12c" name="Changes" comment="4rd commit">
+      <change afterPath="$PROJECT_DIR$/src/prac24/task1/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task1/ComplexAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task1/ConcreteFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/AbstractChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/ChairFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/FunctionalChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/MagicChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/task2/VictorianChair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac20/task4/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac20/task4/MinMax.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HCGjJNsBexOBgvHjqaE7FpQWpG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Yndx/JavaProjects/pracs/pracs/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yndx\JavaProjects\pracs\pracs\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LinkedLists.task1" />
+      <recent name="LinkedLists.task3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f06cba1-64e7-45f6-b92e-7964a986f12c" name="Changes" comment="" />
+      <created>1667781796604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667781796604</updated>
+      <workItem from="1667781805045" duration="7268000" />
+      <workItem from="1668017025581" duration="1226000" />
+      <workItem from="1668335382471" duration="9598000" />
+      <workItem from="1668410952398" duration="16950000" />
+      <workItem from="1669021240232" duration="8653000" />
+      <workItem from="1669037498355" duration="25000" />
+      <workItem from="1670186545276" duration="138000" />
+      <workItem from="1670186888223" duration="557000" />
+      <workItem from="1670187813404" duration="131000" />
+      <workItem from="1670187980672" duration="9749000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1667786041616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667786041616</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st commit">
+      <created>1667788535356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667788535356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3rd commit">
+      <created>1668373416224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668373416224</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3rd commit">
+      <created>1668429846270</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668429846270</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4rd commit">
+      <created>1669033702828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669033702828</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="3rd commit" />
+    <MESSAGE value="4rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4rd commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list.tail.next.next.next.next.next.next" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
