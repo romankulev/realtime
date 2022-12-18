@@ -18,7 +18,7 @@ public class TestAuthor {
         System.out.println("Author's email: " + currentAuthor.getEmail());
         System.out.println("Author's name: " + currentAuthor.getName());
         System.out.println("Author's gender: " + currentAuthor.getGender());
-        currentAuthor.setEmail("pushkin06061799@gmail.com");
+        currentAuthor.setEmail("fgf060dfhe9@gmail.com");
 
         System.out.println("Author's email: " + currentAuthor.getEmail());
         System.out.println(currentAuthor);

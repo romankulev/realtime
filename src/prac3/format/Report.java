@@ -2,9 +2,8 @@ package prac3.format;
 
 public class Report {
     public static void generateReport(Employee[] array) {
-        for (Employee employee : array) {
+        for (Employee employee : array)
             System.out.printf("%s's salary is: %10.2f\n", employee.fullName, employee.salary);
-        }
     }
 
     public static void main(String[] args) {

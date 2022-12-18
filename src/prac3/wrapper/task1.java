@@ -2,7 +2,7 @@ package prac3.wrapper;
 
 public class task1 {
     public static void main(String[] args) {
-        Double num = Double.valueOf(228.1337);
+        Double num = 228.1337;
         Double num2 = Double.parseDouble("123.456");
 
         byte test1 = num.byteValue();

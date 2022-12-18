@@ -8,7 +8,7 @@ public class DemoTest {
         Printable[] printables = {
                 new Magazine("Magazine #1"),
                 new Magazine("Magazine #2"),
-                new Book("Ivanov Petya", "Book #35"),
+                new Book("Pupkin Vasiliy", "Book #32"),
                 new Magazine("Magazine #6")};
 
         printMagazines(printables);

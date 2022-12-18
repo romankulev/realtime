@@ -34,9 +34,8 @@ public class task2 {
         Locale[] arr = {Locale.US, Locale.CHINA, Locale.UK, Locale.JAPAN};
         String[] arr2 = {"US", "CHINA", "UK", "JAPAN"};
 
-        for (int j = 0; j < arr.length; j++) {
+        for (int j = 0; j < arr.length; j++)
             System.out.printf("\n%d. %s", j + 1, arr2[j]);
-        }
         System.out.print("\nВыбери валюты для оплаты товара: ");
         int choiceCurrency = sc.nextInt();
 

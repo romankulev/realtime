@@ -7,13 +7,14 @@ public class task3 {
         Scanner sc = new Scanner(System.in);
 
         int[] arr = new int[10];
-        int avg, sum = 0;
+        double avg;
+        int sum = 0;
 
         for(int elem : arr) {
             elem = sc.nextInt();
             sum += elem;
         }
-        avg = sum / arr.length;
-        System.out.println("Avg: " + avg + ", sum: " + sum);
+        avg = sum / (double) arr.length;
+        System.out.printf("avg: %.3f\nsum: %d",avg,sum);
     }
 }

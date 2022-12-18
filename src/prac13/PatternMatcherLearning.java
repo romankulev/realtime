@@ -78,11 +78,11 @@ public class PatternMatcherLearning {
         System.out.println(isCorrectDateFormat("1/1/1345"));
         //ex6
         System.out.println();
-        System.out.println(checkEmail("danilov0330@gmail.com"));
-        System.out.println(checkEmail(".da nilov 0330@gmail.com"));
-        System.out.println(checkEmail("danilov0330.@.gmail.com"));
-        System.out.println(checkEmail("danilov0330@gmail"));
-        System.out.println(checkEmail("danilov0330@g@mail.ru"));
+        System.out.println(checkEmail("romankulev@gmail.com"));
+        System.out.println(checkEmail(".rom an k 0330@gmail.com"));
+        System.out.println(checkEmail("romankulev.@.gmail.com"));
+        System.out.println(checkEmail("romankulev23@gmail"));
+        System.out.println(checkEmail("romankulev34@g@mail.ru"));
         //ex7
         System.out.println();
         System.out.println(checkPass("badpass"));

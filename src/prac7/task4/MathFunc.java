@@ -1,6 +1,6 @@
 package prac7.task4;
 
-class MathFunc implements MathCaclulable{
+class MathFunc implements MathCalculable {
     @Override
     public long power(int value, int powValue) {
         long ans = 1;
@@ -16,7 +16,7 @@ class MathFunc implements MathCaclulable{
     }
 
     public static void main(String[] args) {
-        MathCaclulable mc1 = new MathFunc();
+        MathCalculable mc1 = new MathFunc();
 
         System.out.println(mc1.power(4,2));
         System.out.println(mc1.abs(1.3f,2.5f));

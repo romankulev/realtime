@@ -28,27 +28,26 @@ public class Poker {
                     if (players == -1) {
                         System.out.println("Game Over");
                         break;
-                    } else System.out.println("Number of players");
+                    }
+                    else
+                        System.out.println("Number of players");
                 }
             }
         }
 
 
-        ArrayList<String> cardsDeck = new ArrayList<String>();
-        for (String s : value) {
-            for (String suit : suits) {
+        ArrayList<String> cardsDeck = new ArrayList<>();
+        for (String s : value)
+            for (String suit : suits)
                 cardsDeck.add(s + " " + suit);
-            }
-        }
 
         Collections.shuffle(cardsDeck);
         System.out.println(" ");
 
         for (int i = 0; i < players * CardsForEach; i++) {
             System.out.println(((i) % 5 + 1) + " card: " + cardsDeck.get(i));
-            if (i % CardsForEach == CardsForEach - 1) {
+            if (i % CardsForEach == CardsForEach - 1)
                 System.out.println("Stack #" + (i / CardsForEach + 1) + " ^");
-            }
         }
     }
 }

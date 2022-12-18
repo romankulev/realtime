@@ -24,7 +24,7 @@ public class FurnitureShop {
                 Ваша корзина:""");
         for(Furniture elem : cart) {
             System.out.println(elem);
-        };
+        }
     }
 
     public static void main(String[] args) {

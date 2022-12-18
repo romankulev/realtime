@@ -15,24 +15,22 @@ public class Tester {
     public static Circle findMax(Circle[] arr) {
         int indexMax = 0;
         double max = 0;
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++)
             if (arr[i].R > max) {
                 max = arr[i].R;
                 indexMax = i;
             }
-        }
         return arr[indexMax];
     }
 
     public static Circle findMin(Circle[] arr) {
         int indexMin = 0;
         double min = 100000000;
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++)
             if (arr[i].R < min) {
                 min = arr[i].R;
                 indexMin = i;
             }
-        }
         return arr[indexMin];
     }
 
@@ -42,14 +40,12 @@ public class Tester {
 
     public static void main(String[] args) {
         Tester test = new Tester(4);
-        for(int i = 0; i < test.arr.length; i++) {
+        for(int i = 0; i < test.arr.length; i++)
             test.arr[i] = new Circle();
-        }
 
 
-        for(int i = 0; i < test.arr.length; i++) {
+        for(int i = 0; i < test.arr.length; i++)
             System.out.println(test.arr[i]);
-        }
 
         System.out.println("\nMax circle: " + findMax(test.arr));
         System.out.println("Min circle: " + findMin(test.arr));
@@ -57,9 +53,8 @@ public class Tester {
         sortCircles(test.arr);
 
         System.out.println();
-        for(int i = 0; i < test.arr.length; i++) {
+        for(int i = 0; i < test.arr.length; i++)
             System.out.println(test.arr[i]);
-        }
 
     }
 }

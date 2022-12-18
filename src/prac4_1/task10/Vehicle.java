@@ -32,5 +32,5 @@ public abstract class Vehicle {
     public abstract double getTime();
     public double getPrice() {
         return 0;
-    };
+    }
 }

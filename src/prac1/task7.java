@@ -3,9 +3,8 @@ package prac1;
 public class task7 {
     public static int factorial(int a) {
         int ans = 1;
-        for(int i = 1; i <= a; i++) {
+        for(int i = 1; i <= a; i++)
             ans *= i;
-        }
         return ans;
     }
 

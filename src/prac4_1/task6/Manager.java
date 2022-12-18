@@ -16,10 +16,10 @@ public class Manager extends Employer{
 
     public static void main(String[] args) {
         Employer[] workers = {
-                new Manager("Steve", "Smith", 40000, 15000, true),
-                new Employer("Bob", "Gates", 20000, true),
-                new Employer("Stan", "Lee", 20000,false),
-                new Manager("Barak", "Obama", 100000, 50000, false)
+                new Manager("Steve", "Jobs", 40000, 15000, true),
+                new Employer("Bill", "Gates", 20000, true),
+                new Employer("Bruce", "Lee", 20000,false),
+                new Manager("Joe", "Biden", 100000, 50000, false)
         };
 
         for (Employer worker : workers) {
